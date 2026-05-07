@@ -5,7 +5,8 @@
     "duration": "5:30",
     "views": 50,
     "thumbnailUrl": "https://img.youtube.com/vi/rYQgy8QDEBI/mqdefault.jpg",
-  "videoUrl": "https://www.youtube.com/watch?v=rYQgy8QDEBI"
+    "videoUrl": "https://www.youtube.com/embed/rYQgy8QDEBI?modestbranding=1&controls=1&showinfo=0&rel=0&iv_load_policy=3&fs=1"
+
   },
   {
     "title": "What is Bitcoin & How it Works?",
